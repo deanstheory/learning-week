@@ -12,10 +12,12 @@ MicroPython sample code presented include:
   - Pulse Width Modulation (PWM).
   - Triggering a LED from a hardware interrupt.
   - Capacitive touch.
-- I2C bus scan.
+- I<sup>2</sup>C bus
+  - I<sup>2</sup>C bus scan.
   - BME280 sensor control.
   - Inertial Measurement Unit.
 - Introduction to ESP32 Wifi.
+  - Wifi network scan and connection.
   - Set RTC from NTP server.
   - HTTP requests.
 - Concurrent programming model using AsyncIO.
